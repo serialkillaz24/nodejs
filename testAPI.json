@@ -2,8 +2,8 @@
   "title": "This is a test login",
   "description": "Fetch remote data from github",
   "login": [
-    { "id": "1", "username": "abc", "pass": "1234" },
-    { "id": "2", "username": "def", "pass": "5678" },
-    { "id": "3", "username": "ghi", "pass": "4321" }
+    { "username": "abc", "pass": "1234", "email": "abc@abc.com" },
+    { "username": "def", "pass": "5678", "email": "def@abc.com" },
+    { "username": "ghi", "pass": "4321", "email": "ghi@abc.com" }
   ]
 }
